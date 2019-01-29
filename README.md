@@ -1,5 +1,5 @@
 # Gametreesize
-Code for paper "An estimation method for game complexity"
+Code for the paper "An estimation method for game complexity"
 
 Alexander Yong and David Yong
 
