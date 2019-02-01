@@ -3,7 +3,7 @@ Code for the paper "An estimation method for game complexity"
 
 Alexander Yong and David Yong
 
-https://faculty.math.illinois.edu/~ayong/ImportanceGames.arxivJan29.pdf
+https://arxiv.org/abs/1901.11161
 
 Usage Instructions
 ----------
